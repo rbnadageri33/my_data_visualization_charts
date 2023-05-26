@@ -2,7 +2,7 @@
 Using Matplotlib, Seaborn and Plotly and Cufflinks we can visualize a many types of charts
 
 In this notebook shown the various types of charts
-# Matplotlib
+# Matplotlib - Basic chart can be plot
 # Inbuilt Pandas visualization
 # Seaborn 
            These plots are:
